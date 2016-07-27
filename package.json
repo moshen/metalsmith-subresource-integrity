@@ -1,0 +1,25 @@
+{
+  "name": "metalsmith-subresource-integrity",
+  "version": "1.0.0",
+  "description": "Metalsmith plugin for adding subresource integrity",
+  "main": "index.js",
+  "homepage": "https://github.com/moshen/metalsmith-subresource-integrity",
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/moshen/metalsmith-subresource-integrity.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Colin Kennedy",
+    "email": "moshen.colin@gmail.com"
+  },
+  "license": "MIT",
+  "engines" : {
+    "node" : ">=6.0.0"
+  },
+  "dependencies": {
+    "minimatch": "^3.0.2"
+  }
+}
